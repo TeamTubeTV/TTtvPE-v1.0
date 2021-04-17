@@ -5,4 +5,4 @@ Dans votre code, écrivez "from TTtvPE.TTtvPE import Engine", ensuite, faites un
 															|						
 															|							
 															V
-								(*largeur de la fenêtre* "," *longueur de la fenêtre* , *titre du jeu (va apparaitre comme titre de la fenêtre)*)
+								(*longueur de la fenêtre* "," *largeur de la fenêtre* , *titre du jeu (va apparaitre comme titre de la fenêtre)*)
